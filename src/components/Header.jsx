@@ -37,9 +37,6 @@ function Header() {
                     <Link to="/About" className="hover:text-[#D9BC15] transition">About</Link>
                     <Link to="/Projects" className="hover:text-[#D9BC15] transition">Projects</Link>
                     <Link to="/Contact" className="hover:text-[#D9BC15] transition">Contact</Link>
-                    <div className="bg-[#ADACA7] w-16 h-7 rounded-full flex items-center pl-0.5">
-                        <button className="bg-[#ECEAE4] rounded-full w-8 flex justify-center">en</button>
-                    </div>
                 </nav>
                 </div>
                 
