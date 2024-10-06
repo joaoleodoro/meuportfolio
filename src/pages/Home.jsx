@@ -4,7 +4,7 @@ import Typewriter from 'typewriter-effect';
 import metade1 from '../assets/metade1.png';
 import metade2 from '../assets/metade2.png';
 import limãoChão from '../assets/limãoChão.png'
-import ProjectsPreview from '../components/projectsPreview';
+import ProjectsPreview from '../components/ProjectsPreview';
 import Skills from '../components/Skills';
 
 function Home() {
